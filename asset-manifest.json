@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.2ed251fb.css",
-    "main.js": "/My-Portfolio/static/js/main.82441f2d.js",
+    "main.js": "/My-Portfolio/static/js/main.3e1275f9.js",
     "static/js/787.48fbe5ec.chunk.js": "/My-Portfolio/static/js/787.48fbe5ec.chunk.js",
     "static/media/placeholder.png": "/My-Portfolio/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/thirteen.svg": "/My-Portfolio/static/media/thirteen.cf0bc49e51cc1ce2d0957999bfb4721a.svg",
@@ -15,8 +15,8 @@
     "static/media/docker.svg": "/My-Portfolio/static/media/docker.a6221ab3e1802ecb0dbf7045de66c953.svg",
     "static/media/rust.svg": "/My-Portfolio/static/media/rust.d1a18d425b946eba30631af41f48947e.svg",
     "static/media/ubuntu.svg": "/My-Portfolio/static/media/ubuntu.b737613634cdfd604754fc1e21b5d4ae.svg",
-    "static/media/cplusplus.svg": "/My-Portfolio/static/media/cplusplus.3398ef505c35b160f8f737a0555dd38d.svg",
     "index.html": "/My-Portfolio/index.html",
+    "static/media/cplusplus.svg": "/My-Portfolio/static/media/cplusplus.3398ef505c35b160f8f737a0555dd38d.svg",
     "static/media/csharp.svg": "/My-Portfolio/static/media/csharp.8f35e178457770eb2706e509cfd5522a.svg",
     "static/media/java.svg": "/My-Portfolio/static/media/java.d004bc17bfb68228540d36c37e6eb811.svg",
     "static/media/slick.svg": "/My-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -38,11 +38,11 @@
     "static/media/css.svg": "/My-Portfolio/static/media/css.43b6f4bdbc0f36b9f2dd15c6ebbcea15.svg",
     "static/media/html.svg": "/My-Portfolio/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
     "main.2ed251fb.css.map": "/My-Portfolio/static/css/main.2ed251fb.css.map",
-    "main.82441f2d.js.map": "/My-Portfolio/static/js/main.82441f2d.js.map",
+    "main.3e1275f9.js.map": "/My-Portfolio/static/js/main.3e1275f9.js.map",
     "787.48fbe5ec.chunk.js.map": "/My-Portfolio/static/js/787.48fbe5ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed251fb.css",
-    "static/js/main.82441f2d.js"
+    "static/js/main.3e1275f9.js"
   ]
 }
