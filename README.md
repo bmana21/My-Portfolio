@@ -1,12 +1,9 @@
-# Developer Portfolio
+# My Portfolio
 
-### Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! our easily customisable, user friendly website is designed to cater to developers and freelancers a like.
+### My personal online portfolio containing information about everything I have done or I will do in my career.
 
 ---
 
-# Demo :movie_camera:
-
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
 
 ## View live demo [here](https://abusaid.netlify.app/).
 
@@ -40,7 +37,6 @@
   - EXPERIENCE
   - CERTIFICATES
   - PROJECTS
-- BLOG
 - CONTACTS
 
 ---
@@ -146,12 +142,6 @@ yarn start
 │   │   ├── BackToTop
 │   │   │   ├── BackToTop.css
 │   │   │   └── BackToTop.js
-│   │   ├── Blog
-│   │   │   ├── Blog.css
-│   │   │   ├── Blog.js
-│   │   │   └── SingleBlog
-│   │   │       ├── SingleBlog.css
-│   │   │       └── SingleBlog.js
 │   │   ├── Contacts
 │   │   │   ├── Contacts.css
 │   │   │   └── Contacts.js
@@ -184,7 +174,6 @@ yarn start
 │   │   └── ThemeContext.js
 │   ├── data
 │   │   ├── aboutData.js
-│   │   ├── blogData.js
 │   │   ├── contactsData.js
 │   │   ├── educationData.js
 │   │   ├── experienceData.js
@@ -196,9 +185,6 @@ yarn start
 │   ├── index.css
 │   ├── index.js
 │   ├── pages
-│   │   ├── Blog
-│   │   │   ├── BlogPage.css
-│   │   │   └── Index.js
 │   │   ├── Home
 │   │   │   └── Index.js
 │   │   ├── Project
@@ -256,23 +242,22 @@ export const headerData = {
 
 #### Data for each component is divided into respective files.
 
-> #### Choose your favourite font from [`src/App.css`](https://github.com/said7388/developer-portfolio/blob/main/src/App.css)
+> #### Choose your favourite font from [`src/App.css`](https://github.com/bmana21/My-Portfolio/blob/main/src/App.css)
 
-> #### About You - [`src/data/aboutData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/aboutData.js)
+> #### About You - [`src/data/aboutData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/aboutData.js)
 
-> #### Education details - [`src/data/educationData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/educationData.js)
+> #### Education details - [`src/data/educationData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/educationData.js)
 
-> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/projectsData.js)
+> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/projectsData.js)
 
-> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/skillsData.js)
+> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/skillsData.js)
 
-> #### Experience - [`src/data/experienceData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/experienceData.js)
+> #### Experience - [`src/data/experienceData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/experienceData.js)
 
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/blogData.js)
 
-> #### Contact Details - [`src/data/contactsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/contactsData.js)
+> #### Contact Details - [`src/data/contactsData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/contactsData.js)
 
-> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/socialsData.js)
+> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/bmana21/My-Portfolio/blob/main/src/data/socialsData.js)
 
 ```javascript
 // EXAMPLE
@@ -398,46 +383,3 @@ export const educationData = [
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 
 ---
-
-<!--
-# Contributors :man_technologist::woman_technologist:
-
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/said7388"><img src="https://i.ibb.co/ZmdNH6x/abu-said.jpg" width="135px;" height="135px;" alt=""/><br /><b>Abu Said</b></a></td>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-        </tr>
-    </table>
-</div> -->
-
-<!--
-## Setting Up Contacts form :envelope_with_arrow:
-
-> ### Follow these [instructions](https://github.com/hhhrrrttt222111/developer-portfolio/wiki/Contacts) to connect contacts form with Google Sheet
-
-
-
-
-
-
-# Upcoming Features :construction:
-
-- Light/Dark theme toggle
-- More illustrations to choose from
-- Achievements and Awards section
-- More fonts to choose from
-
-<br /><br />
-
-## Raise an issue for...
-
-- Found a bug
-- New theme
-- Can't find required skill in Skills section
-- Add new social media profile
-- Add new service
-- Add another section
-
-
-<br /> -->

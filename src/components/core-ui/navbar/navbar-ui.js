@@ -1,13 +1,13 @@
-import { Drawer } from '@mui/material';
+import {Drawer} from '@mui/material';
 import React from 'react';
-import { BsFillMoonFill, BsFillSunFill } from 'react-icons/bs';
-import { FaFolderOpen, FaUser } from 'react-icons/fa';
-import { HiDocumentText } from 'react-icons/hi';
-import { IoClose, IoHomeSharp, IoMenuSharp } from 'react-icons/io5';
-import { MdPhone } from 'react-icons/md';
+import {BsFillMoonFill, BsFillSunFill} from 'react-icons/bs';
+import {FaUser} from 'react-icons/fa';
+import {HiDocumentText} from 'react-icons/hi';
+import {IoClose, IoHomeSharp, IoMenuSharp} from 'react-icons/io5';
+import {MdPhone} from 'react-icons/md';
 import Fade from 'react-reveal/Fade';
-import { HashLink as NavLink } from 'react-router-hash-link';
-import { headerData } from '../../../data/headerData';
+import {HashLink as NavLink} from 'react-router-hash-link';
+import {headerData} from '../../../data/headerData';
 import './navbar.css';
 
 function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClose, open, changeTheme, isDark }) {
@@ -125,24 +125,6 @@ function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClo
                                     }
                                 </span>
                             </div>
-                        </Fade>
-
-                        <Fade left>
-                            <NavLink
-                                to='/#blog'
-                                smooth={true}
-                                spy='true'
-                                duration={2000}
-                            >
-                                <div className={classes.drawerItem}>
-                                    <FaFolderOpen
-                                        className={classes.drawerIcon}
-                                    />
-                                    <span className={classes.drawerLinks}>
-                                        Blog
-                                    </span>
-                                </div>
-                            </NavLink>
                         </Fade>
 
                         <Fade left>

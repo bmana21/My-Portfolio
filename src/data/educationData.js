@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Noakhali Government College',
-        course: 'Bachelor Degree',
-        startYear: '2020',
-        endYear: 'Present'
+        institution: 'Free University of Tbilisi',
+        course: 'Computer Science and Mathematics',
+        startYear: '2021',
+        endYear: '2025'
     },
     {
         id: 2,
-        institution: 'Noakhali Islamia Kamil Madrasah',
-        course: 'Higher Secondary',
-        startYear: '2018',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
-        course: 'Secondary School',
+        institution: 'Kutaisi #41 Physics and Mathematics School',
+        course: 'High school diploma',
         startYear: '2008',
-        endYear: '2018'
+        endYear: '2021'
     },
 ]
