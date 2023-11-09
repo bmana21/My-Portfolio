@@ -12,7 +12,6 @@
 ## Table of Contents :scroll:
 
 - [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
 - [Folder Structure](#folder-structure-open_file_folder)
