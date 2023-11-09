@@ -5,7 +5,7 @@
 ---
 
 
-## View live demo [here](https://abusaid.netlify.app/).
+## View live demo [here](https://bmana21.github.io/My-Portfolio/).
 
 ---
 
@@ -19,10 +19,7 @@
 - [Hosting](#hosting-globe_with_meridians)
 - [SEO](#seo-spider)
 - [Packages Used](#packages-used-package)
-- [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
-- [Upcoming Features](#upcoming-features-construction)
-- [Contributors](#contributors-man_technologistwoman_technologist)
 
 ---
 
@@ -65,17 +62,17 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/My-Portfolio.git
 
-cd developer-portfolio
+cd My-Portfolio
 ```
 
 ### Clone with TypeScript
 
 ```
-git clone -b typescript-version https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone -b typescript-version https://github.com/<YOUR GITHUB USERNAME>/My-Portfolio.git
 
-cd developer-portfolio
+cd My-Portfolio
 ```
 
 ### Install packages from the root directory
@@ -210,7 +207,7 @@ yarn start
 
 # Usage :joystick:
 
-### Customize your details for each component in `src/data` [folder](https://github.com/hhhrrrttt222111/developer-portfolio/tree/master/src/data).
+### Customize your details for each component in `src/data` [folder](https://github.com/bmana21/My-Portfolio/tree/master/src/data).
 
 Eg:
 
