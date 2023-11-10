@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+	import React, { useContext } from 'react';
 import { BrowserRouter as Router, Navigate, Route, Routes } from 'react-router-dom';
 import "slick-carousel/slick/slick-theme.css";
 import "slick-carousel/slick/slick.css";
@@ -17,11 +17,11 @@ function App() {
       <Router>
         <ScrollToTop />
         <Routes>
-          <Route path='/' element={<HomePage />} exact />
+          <Route path='/My-Portfolio/' element={<HomePage />} exact />
           <Route path='/projects' element={<ProjectPage />} exact />
           <Route
             path="*"
-            element={<Navigate to="/" replace />}
+            element={<Navigate to="/My-Portfolio/" replace />}
           />
         </Routes>
       </Router>
